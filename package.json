@@ -6,6 +6,7 @@
   "author": "BorislavBorisov22 <borislavborisov22@abv.bg>",
   "license": "MIT",
   "dependencies": {
-    "rambda": "^1.0.13"
+    "rambda": "^1.0.13",
+    "seamless-immutable": "^7.1.3"
   }
 }
