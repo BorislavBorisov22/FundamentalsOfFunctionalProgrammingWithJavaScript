@@ -1,0 +1,11 @@
+{
+  "name": "FundamentalsOfFunctionalProgrammingWithJavaScript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BorislavBorisov22/FundamentalsOfFunctionalProgrammingWithJavaScript.git",
+  "author": "BorislavBorisov22 <borislavborisov22@abv.bg>",
+  "license": "MIT",
+  "dependencies": {
+    "rambda": "^1.0.13"
+  }
+}
